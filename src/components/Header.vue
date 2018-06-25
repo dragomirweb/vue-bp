@@ -1,23 +1,19 @@
 <template>
-<div>
-  <b-navbar type="light" variant="light">
-    <b-nav-form>
-      <b-input-group left="@">
-        <b-form-input class="mr-sm-2" type="text" placeholder="Username"></b-form-input>
-      </b-input-group>
-    </b-nav-form>
+  <header>
+      <b-navbar variant="faded" type="light">
+    <b-navbar-brand href="#">BootstrapVue</b-navbar-brand>
   </b-navbar>
-</div>
+  </header>
 </template>
 <script>
-
-
 export default {
-  name: "header",
+  name: "Header",
   data() {
     return {};
   }
 };
 </script>
-<style lang="scss">
+<style lang="scss" scoped>
+header {
+}
 </style>
