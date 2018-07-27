@@ -1,21 +1,11 @@
 # vue-bp
 
-> A Vue.js project
+> A pubg stats tracker application
 
 ## Build Setup
+run `npm install`
 
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-```
-
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+1. In `./config` add file that extents the `dev.env` 
+2. Make sure to include it in the `./config/index` env key
+3. This file merges the dev.env
+4. Add it to .gitignore ( this file will store sensitive stuff such as API_KEY )
