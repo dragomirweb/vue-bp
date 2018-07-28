@@ -29,6 +29,6 @@ body {
   text-align: center;
   color: #2c3e50;
   background-color: #f8f9fa;
-  
+  min-height: 100vh;
 }
 </style>
