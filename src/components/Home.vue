@@ -79,47 +79,11 @@ export default {
                     value: null
                 },
                 {
-                    text: 'Xbox Asia',
-                    value: 'xbox-as'
-                }, {
-                    text: 'Xbox Europe',
-                    value: 'xbox-eu'
-                }, {
-                    text: 'Xbox NA',
-                    value: 'xbox-na'
-                }, {
-                    text: 'Xbox Oceania',
-                    value: 'xbox-oc'
-                }, {
-                    text: 'PC KR/JP',
-                    value: 'pc-krjp'
-                }, {
-                    text: 'PC Japan',
-                    value: 'pc-jp'
-                }, {
                     text: 'PC NA',
                     value: 'pc-na'
                 }, {
                     text: 'PC Europe',
                     value: 'pc-eu'
-                }, {
-                    text: 'PC Russia',
-                    value: 'pc-ru'
-                }, {
-                    text: 'PC Oceania',
-                    value: 'pc-oc'
-                }, {
-                    text: 'PC Kakao',
-                    value: 'pc-kakao'
-                }, {
-                    text: 'PC SE Asia',
-                    value: 'pc-sea'
-                }, {
-                    text: 'PC SA',
-                    value: 'pc-sa'
-                }, {
-                    text: 'PC AS',
-                    value: 'pc-as'
                 }, {
                     text: 'PC Tournament',
                     value: 'pc-tournament'
