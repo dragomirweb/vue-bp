@@ -1,7 +1,7 @@
 <template>
   <section id="app">
     <Header></Header>
-    <Home></Home>
+    <router-view class="mt-5"></router-view>
   </section>
 </template>
 
